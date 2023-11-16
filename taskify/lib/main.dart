@@ -8,7 +8,7 @@ void main() async {
   await Parse().initialize(
     'fA8MsaGKCPupUCXY13weBoPEhhbU63HDEAoGS6Sd',
     'https://parseapi.back4app.com',
-    clientKey: 'bb92SlH0V7XifAThuTcsrmk0XG8qgYituGg3ewRI',
+    clientKey: '{ADD YOUR CLIENT KEY HERE}',
     autoSendSessionId: true,
     debug: true,
   );
